@@ -132,4 +132,5 @@ data/
 *.env
 
 # Test Database
-prisma/test.db
+prisma/*.db
+prisma/*.db-journal
